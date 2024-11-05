@@ -1,0 +1,9 @@
+.DS_Store
+.venv
+
+login_info.json
+
+excels
+build
+path
+dist
